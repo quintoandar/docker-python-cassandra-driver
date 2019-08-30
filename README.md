@@ -6,6 +6,12 @@ The idea is to use it, instead of running a `cassandra-driver` new installation,
 
 ## Usage
 
+You can use this container with:
+
+~~~dockerfile
+FROM quintoandar/python-cassandra-driver
+~~~
+
 All the pip dependencies are going to be installed in the `./pip/deps` folder. We do so in order to share those dependencies between Drone steps. Don't forget to copy them during deployment or use the same folder as target for your project.
 
 ## Versions
