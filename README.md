@@ -17,8 +17,8 @@ All the pip dependencies are going to be installed in the `./pip/deps` folder. W
 ## Tags & Versions
 
 * `python-cassandra-driver:python-3.8`:
-    - `python`: [3.8.2](https://docs.python.org/release/3.8.2/)
-    - `cassandra-driver`: [3.19.0](https://pypi.org/project/cassandra-driver/3.19.0/)
+    - [python:3.8.2](https://docs.python.org/release/3.8.2/)
+    - [cassandra-driver:3.19.0](https://pypi.org/project/cassandra-driver/3.19.0/)
 * `python-cassandra-driver:python-3.7`:
-    - `python`: [3.7.7](https://docs.python.org/release/3.7.7/)
-    - `cassandra-driver`: [3.19.0](https://pypi.org/project/cassandra-driver/3.19.0/)
+    - [python:3.7.7](https://docs.python.org/release/3.7.7/)
+    - [cassandra-driver:3.19.0](https://pypi.org/project/cassandra-driver/3.19.0/)
